@@ -2,7 +2,7 @@
 [RE:DOM](https://redom.js.org) extension for Chrome dev tools
 
 ## Install
-https://chrome.google.com/webstore/detail/redom-dev-tools/baiegdlnkkoajbafkllifgaonieafcjg
+https://redom.js.org/devtools
 
 ## How to use
 - Open elements panel
