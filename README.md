@@ -10,3 +10,5 @@ https://redom.js.org/devtools
 - Open RE:DOM tab
 - Use `$r` shortcut in console
 - If the selected element is not a RE:DOM component, it will search the closest child components and show on right
+
+![screenshot](https://redom.js.org/documentation/screenshot.png)
