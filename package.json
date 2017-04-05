@@ -1,11 +1,11 @@
 {
   "name": "redom-devtools",
   "version": "1.0.0",
-  "description": "",
+  "description": "RE:DOM dev tools for Chrome",
   "main": "index.js",
   "scripts": {
     "build": "node build",
-    "version": "node run build && git add .",
+    "version": "npm run build && git add .",
     "postversion": "git push --tags",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
