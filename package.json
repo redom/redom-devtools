@@ -1,0 +1,17 @@
+{
+  "name": "redom-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build",
+    "version": "node run build && git add .",
+    "postversion": "git push --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "~1.3.0"
+  }
+}

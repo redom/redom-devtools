@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "RE:DOM dev tools",
+  "version": "1.0.0",
+  "description": "RE:DOM extension for Chrome devtools",
+  "devtools_page": "devtools.html",
+  "web_accessible_resources": [
+    "devtools.html",
+    "sidebarpane.html"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
