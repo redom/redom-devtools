@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "RE:DOM dev tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RE:DOM extension for Chrome devtools",
   "devtools_page": "devtools.html",
   "web_accessible_resources": [

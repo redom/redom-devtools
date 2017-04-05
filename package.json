@@ -1,6 +1,6 @@
 {
   "name": "redom-devtools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RE:DOM dev tools for Chrome",
   "main": "index.js",
   "scripts": {
