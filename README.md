@@ -1,5 +1,5 @@
 # RE:DOM dev tools
-[RE:DOM](https://redom.js.org) extension for Chrome dev tools
+[RE:DOM](https://redom.js.org) dev tools for Chrome
 
 ## Install
 https://redom.js.org/devtools
