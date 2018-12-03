@@ -12,4 +12,4 @@ https://redom.js.org/devtools
 - If the selected element is not a RE:DOM component, it will search the closest child components and show on right
 
 ## Screenshot
-![screenshot](https://redom.js.org/documentation/screenshot.png)
+![screenshot](./imgs/1280x800.png)
