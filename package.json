@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "archiver": "~3.1.1"
+    "archiver": "~5.2.0"
   }
 }
